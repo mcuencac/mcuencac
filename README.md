@@ -101,6 +101,7 @@ Soy desarrolladora de software senior, especializada en front-end, certificada e
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ## 🎨 Diseño UX/UI
 
@@ -108,6 +109,7 @@ Soy desarrolladora de software senior, especializada en front-end, certificada e
 ![Prototyping](https://img.shields.io/badge/Prototyping-6200EA?style=for-the-badge&logo=figma&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Graphic Design](https://img.shields.io/badge/Graphic_Design-E34F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
 
 
 
