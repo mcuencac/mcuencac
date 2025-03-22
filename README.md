@@ -24,6 +24,7 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 ### 🎨 Front-end
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -42,7 +43,6 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 ![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![Cross-Browser Compatibility](https://img.shields.io/badge/Cross_Browser_Compatibility-333333?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![Liferay Themes](https://img.shields.io/badge/Liferay_Themes-009ADE?style=for-the-badge&logo=liferay&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🧩 Component Libraries
