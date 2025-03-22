@@ -5,7 +5,7 @@
 
 Bienvenid@ a mi perfil de GitHub.  
 
-Soy desarrolladora de software senior, especializada en front-end, certificada en Liferay y recientemente formada en IA.
+Soy desarrolladora de software, especializada en front-end, certificada en Liferay y recientemente formada en IA.
 
 🔭 **Actualmente estoy trabajando en**: *Quizia*, mi app de IA Generativa para pasar exámenes con éxito.
 
