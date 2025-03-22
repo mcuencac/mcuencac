@@ -1,7 +1,7 @@
 <!-- Imagen de cabecera -->
 ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQE4vQYDo2CroQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729859659628?e=1747872000&v=beta&t=pNEldTf7NarqoRmMvqfRnKn0YnixglQXEXbVS_zYFWU)
 
-# ¡Hola! Soy María Rosa Cuenca 👋 
+# ¡Hola! 👋 
 
 Bienvenid@ a mi perfil de GitHub.  
 
