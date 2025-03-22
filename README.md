@@ -9,7 +9,7 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 
 🔭 **Actualmente estoy trabajando en**: *Quizia*, mi app de IA Generativa para pasar exámenes con éxito.
 
-🌱 **Actualmente estoy aprendiendo**: Me estoy preparando para la certificación **Azure AI-102**.
+🌱 **Actualmente estoy aprendiendo**: Me estoy preparando para la certificación [![Azure AI Engineer](https://img.shields.io/badge/AZURE_AI_ENGINEER-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-engineer/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2&practice-assessment-type=certification).
 
 👯 **Busco colaborar en**: Proyectos de **IA Generativa** y **Frontend con React**, principalmente, pero puedo aportar en muchos más ámbitos.
 
@@ -110,6 +110,12 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Graphic Design](https://img.shields.io/badge/Graphic_Design-E34F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
+
+## 📜 Certificaciones
+
+[![Liferay DXP 7.4 Front-End Developer](https://img.shields.io/badge/Liferay_DXP_7.4_Front_End_Developer-009ADE?style=for-the-badge&logo=liferay&logoColor=white)](https://media.licdn.com/dms/image/v2/D4D2DAQEgX9wqc8ywXA/profile-treasury-document-images_800/B4DZWRZBcuHYAk-/1/1741901012028?e=1743638400&v=beta&t=EVKbwSBYDw_kA-k7dB2lS10EHgQkRVjqtctnJF90At4)
+
+
 
 ---
 
