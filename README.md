@@ -1,4 +1,8 @@
-## Hi there 👋
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQE4vQYDo2CroQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729859659628?e=1747872000&v=beta&t=pNEldTf7NarqoRmMvqfRnKn0YnixglQXEXbVS_zYFWU)
+
+# Hola! Soy María Rosa Cuenca 👋
+
+Bienvenid@ a mi perfil de GitHub...
 
 <!--
 **mcuencac/mcuencac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
