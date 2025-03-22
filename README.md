@@ -111,5 +111,7 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 ![Graphic Design](https://img.shields.io/badge/Graphic_Design-E34F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
 
+---
 
+¡Echa un vistazo a mis proyectos! 👀⬇️ 
 
