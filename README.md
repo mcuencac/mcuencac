@@ -1,20 +1,17 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQE4vQYDo2CroQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729859659628?e=1747872000&v=beta&t=pNEldTf7NarqoRmMvqfRnKn0YnixglQXEXbVS_zYFWU)
 
-# Hola! Soy María Rosa Cuenca 👋
+# Hola! Soy María Rosa Cuenca 👋 
 
-Bienvenid@ a mi perfil de GitHub...
+Bienvenid@ a mi perfil de GitHub. Soy desarrolladora de software senior, especializada en front-end, certificada en Liferay y recientemente formada en IA.
 
-<!--
-**mcuencac/mcuencac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Actualmente estoy trabajando en: Quizia, mi app de IA Generativa para pasar exámenes con éxito.
 
-Here are some ideas to get you started:
+🌱 Actualmente estoy aprendiendo: Me estoy preparando para la certificacion AZURE IA 102.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Busco colaborar en: Proyectos de IA Generativa y Frontend React, principalmente, pero puedo aportar en muchos más ambitos.
+
+💬 Pregúntame sobre: Cualquier cosa, me encanta ayudar, soy maja.
+
+⚡ Dato curioso: No canto mal.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Rosa_Cuenca-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mariarosacuenca/)
