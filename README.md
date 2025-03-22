@@ -24,13 +24,14 @@ Soy desarrolladora de software senior, especializada en front-end, certificada e
 ### 🎨 Front-end
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![AlloyUI](https://img.shields.io/badge/AlloyUI-000000?style=for-the-badge&logo=liferay&logoColor=white)
-![Web Components](https://img.shields.io/badge/Web_Components-F7DF1E?style=for-the-badge&logo=webcomponents.org&logoColor=black)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,22 +40,26 @@ Soy desarrolladora de software senior, especializada en front-end, certificada e
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-FFDD00?style=for-the-badge&logo=css3&logoColor=black)
 
+![Web Components](https://img.shields.io/badge/Web_Components-F7DF1E?style=for-the-badge&logo=webcomponents.org&logoColor=black)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![Cross-Browser Compatibility](https://img.shields.io/badge/Cross_Browser_Compatibility-333333?style=for-the-badge&logo=firefox-browser&logoColor=white)
 
 ![Liferay Themes](https://img.shields.io/badge/Liferay_Themes-009ADE?style=for-the-badge&logo=liferay&logoColor=white)
-
-
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
 
 ## 🖥️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
 ## 🗄️ Bases de Datos
@@ -63,6 +68,7 @@ Soy desarrolladora de software senior, especializada en front-end, certificada e
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logo=qdrant&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 
 ## 🧪 Testing
@@ -85,19 +91,16 @@ Soy desarrolladora de software senior, especializada en front-end, certificada e
 ![RAG](https://img.shields.io/badge/RAG-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Desarrollo de chatbots](https://img.shields.io/badge/Chatbots-4A154B?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![Language Modeling](https://img.shields.io/badge/Language_Modeling-FF1493?style=for-the-badge&logo=openai&logoColor=white)
-![Herramientas de IA generativa](https://img.shields.io/badge/IA_Generativa-10A37F?style=for-the-badge&logo=openaigym&logoColor=white)
+![IA generativa](https://img.shields.io/badge/IA_Generativa-10A37F?style=for-the-badge&logo=openaigym&logoColor=white)
 
 ## 🧰 DevOps & Herramientas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ## 🎨 Diseño UX/UI
 
