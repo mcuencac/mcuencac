@@ -2,7 +2,9 @@
 
 # Hola! Soy María Rosa Cuenca 👋 
 
-Bienvenid@ a mi perfil de GitHub. Soy desarrolladora de software senior, especializada en front-end, certificada en Liferay y recientemente formada en IA.
+Bienvenid@ a mi perfil de GitHub. 
+
+Soy desarrolladora de software senior, especializada en front-end, certificada en Liferay y recientemente formada en IA.
 
 🔭 Actualmente estoy trabajando en: Quizia, mi app de IA Generativa para pasar exámenes con éxito.
 
