@@ -36,7 +36,7 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![BEM](https://img.shields.io/badge/BEM-FFDD00?style=for-the-badge&logo=css3&logoColor=black)
+![BEM](https://img.shields.io/badge/BEM-FF9900?style=for-the-badge&logo=css3&logoColor=black)
 ![Web Components](https://img.shields.io/badge/Web_Components-F7DF1E?style=for-the-badge&logo=webcomponents.org&logoColor=black)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-2965f1?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,6 +45,12 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
+## 🧩 Component Libraries
+
+![Lexicon](https://img.shields.io/badge/Lexicon-0B5FFF?style=for-the-badge&logo=liferay&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-4B5563?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material Tailwind](https://img.shields.io/badge/Material_Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-FF4154?style=for-the-badge&logo=mui&logoColor=white)
 
 
 ## 🖥️ Backend
