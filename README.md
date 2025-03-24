@@ -44,6 +44,7 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 ![Cross-Browser Compatibility](https://img.shields.io/badge/Cross_Browser_Compatibility-333333?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![Liferay Themes](https://img.shields.io/badge/Liferay_Themes-009ADE?style=for-the-badge&logo=liferay&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![MarkDoc](https://img.shields.io/badge/MarkDoc-3178C6?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 🧩 Component Libraries
 
