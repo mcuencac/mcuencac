@@ -47,7 +47,7 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 
 ## 🧩 Component Libraries
 
-![Lexicon](https://img.shields.io/badge/Lexicon-0B5FFF?style=for-the-badge&logo=liferay&logoColor=white)
+![Clay Components](https://img.shields.io/badge/Clay_Components-0B5FFF?style=for-the-badge&logo=liferay&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-4B5563?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material Tailwind](https://img.shields.io/badge/Material_Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-FF4154?style=for-the-badge&logo=mui&logoColor=white)
