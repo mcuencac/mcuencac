@@ -14,7 +14,7 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 
 <!-- [![Azure AI Engineer](https://img.shields.io/badge/AZURE_AI_ENGINEER-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-engineer/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2&practice-assessment-type=certification). -->
 
-👯 **Busco colaborar en**: Proyectos de **IA Generativa** y **Frontend con React**, principalmente, pero puedo aportar en muchos más ámbitos.
+👯 **Busco colaborar en**: Proyectos de **Liferay**, **Frontend con React** e **IA Generativa**, principalmente, pero puedo aportar en muchos más ámbitos.
 
 💬 **Pregúntame sobre**: ¡Cualquier cosa! Me encanta ayudar, soy maja 😊
 
