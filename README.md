@@ -7,9 +7,11 @@ Bienvenid@ a mi perfil de GitHub.
 
 Soy desarrolladora de software, especializada en front-end, certificada en Liferay y recientemente formada en IA.
 
-🔭 **Actualmente estoy trabajando en**: *Quizia*, mi app de IA Generativa para pasar exámenes con éxito.
+🔭 **Actualmente estoy trabajando para**: RICOH
 
-🌱 **Actualmente estoy aprendiendo**: Me estoy preparando para la certificación [![Azure AI Engineer](https://img.shields.io/badge/AZURE_AI_ENGINEER-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-engineer/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2&practice-assessment-type=certification).
+🌱 **Actualmente estoy aprendiendo**: Me estoy preparando para la certificación 
+
+<!-- [![Azure AI Engineer](https://img.shields.io/badge/AZURE_AI_ENGINEER-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-engineer/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2&practice-assessment-type=certification). -->
 
 👯 **Busco colaborar en**: Proyectos de **IA Generativa** y **Frontend con React**, principalmente, pero puedo aportar en muchos más ámbitos.
 
