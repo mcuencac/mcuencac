@@ -1,5 +1,5 @@
 <!-- Imagen de cabecera -->
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQE4vQYDo2CroQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729859659628?e=1747872000&v=beta&t=pNEldTf7NarqoRmMvqfRnKn0YnixglQXEXbVS_zYFWU)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQE4vQYDo2CroQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1729859659628?e=1773878400&v=beta&t=87Hi6Cb1uDSnkJcfG1xUJNGAHmKlkTDIWVje7yAGo44)
 
 # ¡Hola! 👋 
 
