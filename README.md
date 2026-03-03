@@ -9,7 +9,7 @@ Soy desarrolladora de software, especializada en front-end, certificada en Lifer
 
 🔭 **Actualmente estoy trabajando para**: RICOH
 
-🌱 **Actualmente estoy aprendiendo**: Me estoy preparando para la certificación [![Liferay Themes](https://img.shields.io/badge/Liferay_Themes-009ADE?style=for-the-badge&logo=liferay&logoColor=white)](https://learn.liferay.com/certification/frontend-developer-certification).
+🌱 **Actualmente estoy aprendiendo**: Me estoy preparando para la certificación [![Liferay Frontend Certification](https://img.shields.io/badge/Liferay_Themes-009ADE?style=for-the-badge&logo=liferay&logoColor=white)](https://learn.liferay.com/certification/frontend-developer-certification).
 
 <!-- [![Azure AI Engineer](https://img.shields.io/badge/AZURE_AI_ENGINEER-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-engineer/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2&practice-assessment-type=certification). -->
 
